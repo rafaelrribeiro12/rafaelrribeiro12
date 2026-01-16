@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** na <a href="https://www.unicesumar.edu.br/ead/cursos-graduacao/analise-e-desenvolvimento-de-sistemas/">UNICESUMAR</a>.
-- 💼 &nbsp; Trabalhando como  **Desenvolvedor de Sistemas** na <a href="http://www.agili.com.br/">ÁGILI SOFTWARE BRASIL</a>
+- 💼 &nbsp; Trabalhando como  **Desenvolvedor Pleno** na <a href="http://www.agili.com.br/">ÁGILI SOFTWARE BRASIL</a>
 
 <h3> :rocket: &nbsp;Habilidades </h3>
 
@@ -35,6 +35,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Rafael R. Ribeiro](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rafaelrestolho12/)
-[![Gmail](https://img.shields.io/badge/-Send_me_an_Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelrestolho12@gmail.com)](mailto:rafaelrestolho12@gmail.com)
+[![Linkedin: Rafael R. Ribeiro](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rafaelrribeiro12/)
 

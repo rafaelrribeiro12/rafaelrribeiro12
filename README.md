@@ -1,39 +1,58 @@
+# 👋 Olá, eu sou o Rafael Ribeiro!
 
-![](https://komarev.com/ghpvc/?username=rafaelrribeiro12&color=006bed)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafaelrribeiro12&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/rafaelrribeiro12?label=Seguidores&style=social" alt="followers" />
+</p>
 
-<h3>   👨‍💻&nbsp;Sobre mim <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="31" height="23" > </h3>
+Sou **Desenvolvedor Fullstack Pleno**, com experiência em aplicações web, APIs e sistemas corporativos.  
+Trabalho com foco em qualidade de código, arquitetura limpa e soluções escaláveis.
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** na <a href="https://www.unicesumar.edu.br/ead/cursos-graduacao/analise-e-desenvolvimento-de-sistemas/">UNICESUMAR</a>.
-- 💼 &nbsp; Trabalhando como  **Desenvolvedor Pleno** na <a href="http://www.agili.com.br/">ÁGILI SOFTWARE BRASIL</a>
+---
 
-<h3> :rocket: &nbsp;Habilidades </h3>
+## 🚀 Sobre mim
 
-**Conhecimentos**
-  
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- 
-**IDE**
+- 💻 Desenvolvedor Fullstack Pleno  
+- ⚙️ Atuação em projetos corporativos e aplicações de negócio  
+- 🧠 Foco em boas práticas, manutenibilidade e performance  
+- 📈 Em constante evolução técnica  
 
-   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   ![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-   ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+---
 
-<br/>
+## 🛠️ Stack Principal
 
-<a href="https://github.com/rafaelrribeiro12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelrribeiro12&theme=highcontrast&show_icons=true" />
-</a>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-<br/>
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![ExtJS](https://img.shields.io/badge/ExtJS-86BC40?style=for-the-badge)
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+### Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-[![Linkedin: Rafael R. Ribeiro](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rafaelrribeiro12/)
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
+## 📌 O que você vai encontrar por aqui
+
+- 📂 Projetos pessoais e profissionais  
+- 🧪 Provas de conceito  
+- 📚 Estudos técnicos  
+- 🔧 Ferramentas e utilidades  
+
+---
+
+## 📫 Onde me encontrar
+
+- 💼 [Meu LinkedIn](https://www.linkedin.com/in/rafaelrribeiro12/)
+
+---
+
+⭐ Se curtir algum projeto, deixa uma estrela — isso ajuda bastante!
